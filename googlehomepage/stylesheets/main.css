@@ -1,0 +1,93 @@
+.navbar{
+  float:right;
+  vertical-align: middle;
+  line-height: 70px;
+}
+
+.navbarlinks{
+  display: inline-block;
+  word-spacing: 18px;
+  vertical-align: middle;
+}
+
+.applications{
+  display: inline-block;
+  word-spacing: 18px;
+  vertical-align: middle;
+}
+
+.profilepicture{
+  display: inline-block;
+  word-spacing: 18px;
+  vertical-align: middle;
+}
+
+.profilepicture img{
+  border-radius: 50%;
+  height: 35px;
+  vertical-align: middle;
+}
+
+.applications img{
+  border-radius: 50%;
+  height: 20px;
+  vertical-align: middle;
+}
+
+.logo img{
+  height: 90px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  vertical-align: middle;
+  padding-top: 200px;
+  padding-left: 350px;
+  padding-bottom: 30px;
+}
+
+h2{
+  font-family: sans-serif;
+  font-size: small;
+}
+
+.search-bar{
+  display: block;
+  height: 36px;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+.search-buttons{
+  padding-top: 40px;
+  padding-left: 540px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.button{
+  color: red;
+  font-size: bold;
+}
+
+.footer{
+  float: left;
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 40px;
+  padding-top: 13em;
+  word-spacing: 22px;
+}
+
+.footer-corner{
+  float: right;
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding-right: 40px;
+  padding-top: 13em;
+  word-spacing: 22px;
+}
+
